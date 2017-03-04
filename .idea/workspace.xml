@@ -22,7 +22,7 @@
         <entry file="file://$PROJECT_DIR$/customer_segments.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="55" />
+              <selected id="59" />
             </state>
           </provider>
         </entry>
@@ -86,9 +86,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ipnb.configuration.IpnbConfigurable" />
     <property name="nodejs_interpreter_path" value="/usr/bin/node" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../num_analysis/hw_2/Untitled.ipynb" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../num_analysis/hw_2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
   </component>
@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1488404941328</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="selecting number of clusters">
+      <created>1488481646386</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1488481646386</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -161,7 +168,8 @@
     <MESSAGE value=".gitignore added" />
     <MESSAGE value="outlier detection and pca" />
     <MESSAGE value="gitignore updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore updated" />
+    <MESSAGE value="selecting number of clusters" />
+    <option name="LAST_COMMIT_MESSAGE" value="selecting number of clusters" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -402,7 +410,7 @@
     <entry file="file://$PROJECT_DIR$/customer_segments.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="55" />
+          <selected id="59" />
         </state>
       </provider>
     </entry>
